@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today I'm Data Scientist focus on Network Data Science, and I work as a Tech Education Specialist at DIO. I'm also a content creator on Youtube channels SR and SP. So... you can see now that I love contributing to the community by creating articles, videos and sharing valuable information about IT careers.
+I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today I'm Data Scientist focus on Network Data Science, and I work as a Tech Education Specialist at DIO. I'm also a content creator on Youtube channels SR and SP. So... you can see now that I love contributing to the community by creating articles, videos and sharing valuable information about IT careers. For more information access the links bellow.
 
   - 🔭 I’m currently working on DIO
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/juliana-mascarenhas-ds/">Linkedin</a>
