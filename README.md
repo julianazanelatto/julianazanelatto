@@ -9,15 +9,18 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
 - 🌱 I’m currently learning IA, Azure
 - 💬 Ask me about Data Science, Computer Network, Python and Java
 - 📫 How to reach me: @juliana-mascarenhas-ds
-
 - 📢 Youtube Channel SR: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a>
 - 📢 Youtube Channel SP: <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
 - 📢 Site (blog): www.simplificandoredes.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark" />
+</a>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=julianazanelatto)
 
