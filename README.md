@@ -7,6 +7,8 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
 - 📢 Youtube Channel SR: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a>
 - 📢 Youtube Channel SP: <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianazanelatto&show_icons=true&theme=dark)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto)](https://github.com/anuraghazra/github-readme-stats)
  -->
