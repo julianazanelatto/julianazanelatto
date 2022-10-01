@@ -7,12 +7,21 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
 - 📢 Youtube Channel SR: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a>
 - 📢 Youtube Channel SP: <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianazanelatto&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
- -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianazanelatto&show_icons=true&theme=dark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> 
+-->
  
  
 <!--
