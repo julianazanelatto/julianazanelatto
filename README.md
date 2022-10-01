@@ -4,13 +4,8 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
 
 
 - 🔭 I’m currently working on DIO
-- 📢 Youtube Channel
-<p align="left">
-<a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes
-<img align="center" 
-src="![image](https://user-images.githubusercontent.com/81716096/193384193-b2d2a627-6266-4daa-b3bd-d63db15d5b73.png)"
-alt="" height="30" widht="40"></a>
-</p>
+- 📢 Youtube Channel SR: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a>
+- 📢 Youtube Channel SP: <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
 
 
 <!--
