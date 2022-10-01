@@ -3,7 +3,7 @@
 I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today I'm Data Scientis with a focus on Network Data Science, and I work as a Tech Education Specialist at DIO. I'm also a content creator on Youtube channels SR and SP. So... you can see now that I love contributing to the community by creating articles, videos and sharing valuable information about IT careers.
 
   - 🔭 I’m currently working on DIO
-  - 📫 How to reach me: @juliana-mascarenhas-ds
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/juliana-mascarenhas-ds/">Linkedin</a>
   - 📢 Youtube Channels: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a> and <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
   - 📢 Site (blog): www.simplificandoredes.com
 <p align="center">
