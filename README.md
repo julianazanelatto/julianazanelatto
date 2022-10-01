@@ -4,9 +4,7 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
 
 
 - 🔭 I’m currently working on DIO
-- 📢 Youtube Channel
-<h2 align="left"> Youtube Channels </h2>
-<p align="left">
+- 📢 Youtube Channel <p align="left">
 <a href="https://www.youtube.com/c/SimplificandoRedes" target="blank">
 <img align="center" 
 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fyoutube_1384060&psig=AOvVaw1FkutnHdfRYF-WOTzxU0Es&ust=1664679831857000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiioOKFvvoCFQAAAAAdAAAAABAD"
