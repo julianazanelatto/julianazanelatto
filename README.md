@@ -2,8 +2,6 @@
 
 I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today I'm Data Scientis with a focus on Network Data Science, and I work as a Tech Education Specialist at DIO. I'm also a content creator on Youtube channels SR and SP. So... you can see now that I love contributing to the community by creating articles, videos and sharing valuable information about IT careers.
 
-<p>
-  <p>
   - 🔭 I’m currently working on DIO
   - 🌱 I’m currently learning IA, Azure
   - 💬 Ask me about Data Science, Computer Network, Python and Java
@@ -11,7 +9,7 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
   - 📢 Youtube Channel SR: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a>
   - 📢 Youtube Channel SP: <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
   - 📢 Site (blog): www.simplificandoredes.com
-  </p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark" />
 </a> 
