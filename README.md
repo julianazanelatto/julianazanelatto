@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
 I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today I'm Data Scientist focus on Network Data Science, and I work as a Tech Education Specialist at DIO. I'm also a content creator on Youtube channels SR and SP. So... you can see now that I love contributing to the community by creating articles, videos and sharing valuable information about IT careers. For more information access the links bellow.
