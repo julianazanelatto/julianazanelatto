@@ -10,6 +10,7 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
   - 🔭 I’m currently working on DIO
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/juliana-mascarenhas-ds/">Linkedin</a>
   - MySQL course DIO: <a href="https://web.dio.me/track/formacao-sql-db-specialist">SQL Database Specialist</a>
+  - Power BI Training DIO: <a href="https://web.dio.me/track/formacao-power-bi-analyst">Power BI Analyst</a>
   - 📢 Youtube Channels: <a href="https://www.youtube.com/c/SimplificandoRedes" target="">Simplificando Redes</a> and <a href="https://www.youtube.com/c/SimplificandoProgramacao" target="">Simplificando Programação</a>
   - 📢 Site (blog): www.simplificandoredes.com
 
