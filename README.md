@@ -3,7 +3,7 @@
 <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
-I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today I'm working on the data field focus on data engineering and analyis. I have a master degree in a specific area of expertise, modeling with Network Data Science. I'm also a tech instructor and content creator on Youtube channels SR and SP. 
+I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Nowadays I'm working on the data field focus on data engineering and analyis. I have a master degree in a specific area of expertise, modeling with Network Data Science. I'm also a tech instructor and content creator on Youtube channels SR and SP. 
   
   We alredy pass the ✨ 7k ✨ in the Simplificando Redes on the Youtube. We just simplify computing issues such as: docker, python, database, sql, nosql, linux, infrastructure, rabbitmq, cybersecurity and others.
   
@@ -11,7 +11,7 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Today
 </p>
 
 
-  - 🔭 I’m currently work as a Data Analyst at IOC Fiocruz
+  - 🔭 I’m currently work as a Tech Freelancer and Data Analyst at IOC Fiocruz
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/juliana-mascarenhas-ds/">Linkedin</a>
   - MySQL course DIO: <a href="https://web.dio.me/track/formacao-sql-db-specialist">SQL Database Specialist</a>
   - Power BI Training DIO: <a href="https://web.dio.me/track/formacao-power-bi-analyst">Power BI Analyst</a>
