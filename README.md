@@ -11,7 +11,7 @@ I'm Juliana Mascarenhas, and I've been working in the IT field since 2010. Nowad
 </p>
 
 
-  - 🔭 I’m currently work as a Tech Freelancer and Data Analyst at IOC Fiocruz
+  - 🔭 I’m currently work as a Tech Instructor and Data Analyst at IOC Fiocruz
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/juliana-mascarenhas-ds/">Linkedin</a>
   - MySQL course DIO: <a href="https://web.dio.me/track/formacao-sql-db-specialist">SQL Database Specialist</a>
   - Power BI Training DIO: <a href="https://web.dio.me/track/formacao-power-bi-analyst">Power BI Analyst</a>
